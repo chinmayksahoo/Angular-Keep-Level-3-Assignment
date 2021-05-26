@@ -17,6 +17,24 @@
       "text": "Mark Twain",
       "id": 3,
       "state": "completed"
+    },
+    {
+      "title": "TestNote",
+      "text": "TestText",
+      "state": "started",
+      "id": 4
+    },
+    {
+      "title": "Read Angular 1 blog",
+      "text": "Shall do at 10.30 pm",
+      "state": "not-started",
+      "id": 5
+    },
+    {
+      "title": "Read Angular 1 blog",
+      "text": "Shall do at 10.30 pm",
+      "state": "not-started",
+      "id": 6
     }
   ]
 }
